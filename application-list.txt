@@ -1,0 +1,20 @@
+1pass
+Airtame
+Boom 3d
+Dropbox
+FileZilla
+Gitbox
+GoToMeeting
+join.me
+Mamp
+Vagrant
+Postman
+Private Internet Access
+Sequel Pro
+Slack
+Spotify
+Trello
+VirtualBox
+VSCode
+Xcode
+Zeplin
