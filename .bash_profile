@@ -156,13 +156,9 @@ alias sites='cd ~/Sites/'
 
 alias hosts='sudo vi /etc/hosts'
 
-alias paypalgr='ssh droder@138.197.13.75'
-
 alias flushdns='dscacheutil -flushcache; sudo killall -HUP mDNSResponder; echo "DNS Cache Cleared";'
 
 alias glog='git log --oneline'
-
-alias ebay='ssh -i ~/.ssh/mainst appevai@10.9.185.26'
 
 alias localbuild='ng build --prod --deploy-url="/wp-content/themes/local/dist/"';
 
